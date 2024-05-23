@@ -1,0 +1,104 @@
+---
+title: "Katherine Tajan Niebles"
+subtitle: "Ing. Electrónica"
+toc: true
+toc-depth: 3
+toc-title: ""
+image: avatar.jpg
+about:
+  id: hero-heading
+  template: jolla
+  image: avatar.jpg
+  links:
+    - icon: linkedin
+      text: linkedin
+      href: https://www.linkedin.com/in/katherine-tajan-niebles-b25425246
+    - icon: github
+      text: Github
+      href: https://github.com/KatherineTajan
+editor: 
+  markdown: 
+    wrap: 72
+---
+
+*¡Bienvenidos a mi blog!  Aquí compartiré un poco de mis interesés personales, mi formación académica y trayectoria
+profesional.*
+
+
+::: {#hero-heading}
+
+¡Hola a todos! Mi nombre es Katherine, soy ingeniera electrónica de
+profesión y actualmente estoy cursando una maestría en estadística
+aplicada. Durante más de una década, tuve el privilegio de trabajar en
+un laboratorio de metrología en una empresa del sector de Gas en la
+ciudad de Barranquilla. Desde 2009 hasta principios de 2024, me sumergí
+en el mundo de la instrumentación, donde aprendí la importancia de la
+precisión y la exactitud en cada medición.
+
+Este trabajo no solo me enseñó sobre la importancia de los datos que
+registrábamos durante cada medición, sino que también cultivó en mí un
+profundo interés por entenderlos y analizarlos. ¿Qué me dicen? ¿Qué hay
+detrás de estos números? estas preguntas me llevaron a explorar aún más
+el fascinante mundo de los datos.
+
+Cuando no estoy inmersa en mis compromisos académicos, me encanta
+mantenerme activa y conectada con la naturaleza, ya sea desafiándome en
+una sesión de crossfit o trotando en un parque. Además, el baile es una
+de mis grandes pasiones, una forma de expresión que me conecta con mi
+lado más creativo y me libera de tensiones. Éstas actividades me permiten mantener un equilibrio entre los afanes que trae el día a día y reencontrarme conmigo misma. 
+
+Tengo una cocker spaniel llamada
+[Maya](https://www.instagram.com/mayita_09_03/), quien ha sido mi
+compañera fiel durante dos años.
+
+:::
+
+## Educación
+
+
+Universidad del Norte, Barranquilla Atlántico \|\
+Magister en Estadística Aplicada \| En formación
+
+Universidad de la Costa CUC, Barranquilla Atlántico \|\
+Ingeniero Electrónico \| Noviembre, 2017
+
+SENA, Barranquilla Atlántico \| Tecnólogo en Mantenimiento Electrónico e
+Instrumental Industrial \| Septiembre, 2010
+
+## Experiencia Laboral
+
+Gases del Caribe S.A. E.S.P. \| Mayo, 2017 - Enero, 2024 \| Profesional
+de Calibración de Equipos e Instrumentos
+
+Avántika Colombia S.A.S. \| Octubre, 2016 - Abril, 2017 \| Profesional
+de Servicio Técnico
+
+Superteg del Caribe S.A.S. \| Abril, 2009 - Julio, 2015 \| Auxiliar
+Banco de Pruebas - Laboratorio de Metrología Gases del Caribe S.A.
+E.S.P.s
+
+Gases del Caribe S.A. E.S.P. \| Septiembre, 2008 - Marzo, 2009 \|
+Aprendiz SENA/Instrumentista Industrial
+
+## Proyectos
+
+PETI, Implementación OpenSmartFlex y GIS. \| Enero, 2014 - Febrero, 2015
+\| Empresas participantes: Gases de Occidente, Gases del Caribe, Efigas
+y Surtigas \| Implementación y configuración del proceso de
+Aseguramiento Metrológico para el control y generación automático de
+certificados y/o informes de calibración de equipos detectores de gases,
+medidores de presión, medidores de temperatura, medidores de volumen y
+equipos de termo fusión, entre otros sobre el software SmartFlex.
+
+
+
+
+```{r echo=FALSE}
+#conexión con GitHub
+use_git()
+```
+
+```{r echo=FALSE}
+use_github()
+
+```

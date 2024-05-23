@@ -1,0 +1,65 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Katherine Tajan Niebles",
+    "section": "",
+    "text": "¡Bienvenidos a mi blog! Aquí compartiré un poco de mis interesés personales, mi formación académica y trayectoria profesional."
+  },
+  {
+    "objectID": "posts/post-with-code/index.html",
+    "href": "posts/post-with-code/index.html",
+    "title": "Post With Code",
+    "section": "",
+    "text": "This is a post with executable code.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Katherine Tajan Niebles",
+    "section": "",
+    "text": "### This content appears above the formatted about page content.\n\nFinley Malloc is the Chief Data Scientist at Wengo Analytics. When not innovating on data platforms, Finley enjoys spending time unicycling and playing with her pet iguana.\n## Education\nUniversity of California, San Diego \\| San Diego, CA\nPhD in Mathematics \\| Sept 2011 - June 2015\nMacalester College \\| St. Paul MA\nB.A in Economics \\| Sept 2007 - June 2011\n## Experience\nWengo Analytics \\| Head Data Scientist \\| April 2018 - present\nGeoScynce \\| Chief Analyst \\| Sept 2012 - April 2018"
+  },
+  {
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Welcome To My Blog",
+    "section": "",
+    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Katherine Tajan Niebles",
+    "section": "",
+    "text": "University of California, San Diego | San Diego, CA PhD in Mathematics | Sept 2011 - June 2015\nMacalester College | St. Paul MA B.A in Economics | Sept 2007 - June 2011"
+  },
+  {
+    "objectID": "index.html#experience",
+    "href": "index.html#experience",
+    "title": "Katherine Tajan Niebles",
+    "section": "",
+    "text": "Wengo Analytics | Head Data Scientist | April 2018 - present\nGeoScynce | Chief Analyst | Sept 2012 - April 2018"
+  },
+  {
+    "objectID": "index.html#educación",
+    "href": "index.html#educación",
+    "title": "Katherine Tajan Niebles",
+    "section": "Educación",
+    "text": "Educación\nUniversidad del Norte, Barranquilla Atlántico |\nMagister en Estadística Aplicada | En formación\nUniversidad de la Costa CUC, Barranquilla Atlántico |\nIngeniero Electrónico | Noviembre, 2017\nSENA, Barranquilla Atlántico | Tecnólogo en Mantenimiento Electrónico e Instrumental Industrial | Septiembre, 2010"
+  },
+  {
+    "objectID": "index.html#experiencia-laboral",
+    "href": "index.html#experiencia-laboral",
+    "title": "Katherine Tajan Niebles",
+    "section": "Experiencia Laboral",
+    "text": "Experiencia Laboral\nGases del Caribe S.A. E.S.P. | Mayo, 2017 - Enero, 2024 | Profesional de Calibración de Equipos e Instrumentos\nAvántika Colombia S.A.S. | Octubre, 2016 - Abril, 2017 | Profesional de Servicio Técnico\nSuperteg del Caribe S.A.S. | Abril, 2009 - Julio, 2015 | Auxiliar Banco de Pruebas - Laboratorio de Metrología Gases del Caribe S.A. E.S.P.s\nGases del Caribe S.A. E.S.P. | Septiembre, 2008 - Marzo, 2009 | Aprendiz SENA/Instrumentista Industrial"
+  },
+  {
+    "objectID": "index.html#proyectos",
+    "href": "index.html#proyectos",
+    "title": "Katherine Tajan Niebles",
+    "section": "Proyectos",
+    "text": "Proyectos\nPETI, Implementación OpenSmartFlex y GIS. | Enero, 2014 - Febrero, 2015 | Empresas participantes: Gases de Occidente, Gases del Caribe, Efigas y Surtigas | Implementación y configuración del proceso de Aseguramiento Metrológico para el control y generación automático de certificados y/o informes de calibración de equipos detectores de gases, medidores de presión, medidores de temperatura, medidores de volumen y equipos de termo fusión, entre otros sobre el software SmartFlex."
+  }
+]
